@@ -47,13 +47,13 @@ DISCORD_CHANNEL_ID=
 2. In the Top Right click Menu 
 3. Click Log In
 4. Click API
-   #### Create and Get Open AI Key:
+   ### Create and Get Open AI Key:
      5. On the left Panel Click the lock icon labeled API keys
      6. Click + Create new secret key
      7. Name the key something like AI Facilitator
      8. Copy the secret key
      9. Set the OPENAI_API_KEY in the .env file to the secret key
-   #### Create and Get Open AI Assistant ID:
+   ### Create and Get Open AI Assistant ID:
      5. On the left Panel Click the robot icon labeled Assistants
      6. In the Top Right Click + Create
      7. For the Model Select gpt-4-1106-preview (Don't worry about name or instructions)
